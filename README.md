@@ -4,8 +4,8 @@ This project is an Azure Functions application that accepts a PDF document and e
 
 ## Tech Stack
 
-- .NET 8 (Isolated Worker)
-- Azure Functions
+- .NET 8 
+- Azure Functions (Isolated Worker)
 - Tesseract OCR
 - Magick.NET-Q8-AnyCPU (image handling)
 - HttpMultipartParser (file upload handling)
